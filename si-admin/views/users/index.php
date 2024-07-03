@@ -1,8 +1,8 @@
 <?php
-// session_start();
-// if (!isset($_SESSION['user'])) {
-//     return header('Location: http://localhost:81/konterku/views/login/' );
-// }
+session_start();
+if (!isset($_SESSION['user'])) {
+    return header('Location: http://localhost/web-porto/si-admin/views/Login/' );
+}
 ?>
 <!doctype html>
 <html lang="en">
@@ -145,14 +145,16 @@
             }else if($('#action').val() == "Update"){
                 var formData = {
                     'id' : $('#id').val(),
-                    'fullname' : $('#fullname').val(),
+                    'full_name' : $('#full_name').val(),
                     'email' : $('#email').val(),
-                    'pass' : $('#pass').val(),
-                    'roles' : $('#roles').val()
+                    'password' : $('#password').val(),
+                    'job' : $('#job').val(),
+                    'expected_position' : $('#expected_position').val(),
+                    'photo' : $('#photo').val()
                 }
 
                 $.ajax({
-                    url:"http://localhost:81/konterku/api/user/update.php",
+                    url:"http://localhost/web-porto/si-admin/api/users/update.php",
                     method:"PUT",
                     data: JSON.stringify(formData),
                     success:function(data){
@@ -208,7 +210,7 @@
     }
 
     function showOne(id) {
-        $('#dynamic_modal_title').text('Edit Data');
+        $('#dynamic_modal_title').text('Edit Biodata User');
         $('#sample_form')[0].reset();
         $('#action').val('Update');
         $('#action_button').text('Update');
@@ -219,12 +221,15 @@
             type: "GET",
             contentType: "application/json",
             url:
-            "http://localhost:81/konterku/api/user/read.php?id="+id,
+            "http://localhost/web-porto/si-admin/api/users/read.php?id="+id,
             success: function(response) {
                 $('#id').val(response.id);
-                $('#fullname').val(response.fullname);
+                $('#full_name').val(response.full_name);
                 $('#email').val(response.email);
-                $('#roles').val(response.roles).change();
+                $('#password').val(response.password);
+                $('#job').val(response.job);
+                $('#expected_position').val(response.expected_position);
+                $('#photo').val(response.photo);
             },
             error: function(err) {
                 console.log(err);

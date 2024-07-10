@@ -1,0 +1,179 @@
+[03-Jul-2024 04:12:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:80
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#1 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 80
+[03-Jul-2024 04:14:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:80
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#1 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 80
+[03-Jul-2024 04:14:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:80
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#1 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 80
+[03-Jul-2024 04:15:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:80
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#1 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 80
+[03-Jul-2024 04:15:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:80
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#1 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 80
+[03-Jul-2024 04:15:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:80
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#1 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 80
+[03-Jul-2024 04:15:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:80
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#1 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 80
+[03-Jul-2024 04:15:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:80
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#1 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 80
+[03-Jul-2024 04:15:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:80
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#1 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 80
+[03-Jul-2024 04:15:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:80
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#1 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 80
+[03-Jul-2024 04:15:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:80
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#1 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 80
+[03-Jul-2024 04:18:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:80
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#1 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 80
+[03-Jul-2024 04:18:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:80
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#1 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 80
+[03-Jul-2024 04:22:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'amisbud1_portofolio'@'localhost' (using password: YES) in /home/amisbud1/websi.amisbudi.cloud/si-admin/config/database.php:12
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/config/database.php(12): mysqli_connect()
+#1 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(13): Database->getConnection()
+#2 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/config/database.php on line 12
+[03-Jul-2024 04:22:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'amisbud1_portofolio'@'localhost' (using password: YES) in /home/amisbud1/websi.amisbudi.cloud/si-admin/config/database.php:12
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/config/database.php(12): mysqli_connect()
+#1 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(13): Database->getConnection()
+#2 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/config/database.php on line 12
+[03-Jul-2024 04:22:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'amisbud1_portofolio'@'localhost' (using password: YES) in /home/amisbud1/websi.amisbudi.cloud/si-admin/config/database.php:12
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/config/database.php(12): mysqli_connect()
+#1 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(13): Database->getConnection()
+#2 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/config/database.php on line 12
+[03-Jul-2024 04:31:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'amisbud1_portofolio'@'localhost' (using password: YES) in /home/amisbud1/websi.amisbudi.cloud/si-admin/config/database.php:12
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/config/database.php(12): mysqli_connect()
+#1 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(13): Database->getConnection()
+#2 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/config/database.php on line 12
+[03-Jul-2024 04:48:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'amisbud1_portofolio.users' doesn't exist in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:82
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php(82): PDOStatement->execute()
+#1 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#2 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 82
+[03-Jul-2024 04:49:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'amisbud1_portofolio.users' doesn't exist in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:82
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php(82): PDOStatement->execute()
+#1 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#2 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 82
+[06-Jul-2024 20:44:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'amisbud1_portofolio.users' doesn't exist in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:82
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php(82): PDOStatement->execute()
+#1 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#2 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 82
+[06-Jul-2024 20:56:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'amisbud1_portofolio.users' doesn't exist in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:82
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php(82): PDOStatement->execute()
+#1 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#2 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 82
+[06-Jul-2024 20:57:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'amisbud1_portofolio.users' doesn't exist in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:82
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php(82): PDOStatement->execute()
+#1 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#2 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 82
+[06-Jul-2024 21:00:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'amisbud1_portofolio.users' doesn't exist in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:82
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php(82): PDOStatement->execute()
+#1 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#2 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 82
+[06-Jul-2024 21:04:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'amisbud1_portofolio.users' doesn't exist in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:82
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php(82): PDOStatement->execute()
+#1 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#2 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 82
+[06-Jul-2024 21:04:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'amisbud1_portofolio.users' doesn't exist in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:82
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php(82): PDOStatement->execute()
+#1 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#2 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 82
+[06-Jul-2024 21:04:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'amisbud1_portofolio.users' doesn't exist in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:82
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php(82): PDOStatement->execute()
+#1 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#2 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 82
+[06-Jul-2024 21:04:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'amisbud1_portofolio.users' doesn't exist in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:82
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php(82): PDOStatement->execute()
+#1 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#2 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 82
+[06-Jul-2024 21:20:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'amisbud1_portofolio.users' doesn't exist in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:82
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php(82): PDOStatement->execute()
+#1 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#2 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 82
+[10-Jul-2024 10:42:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'amisbud1_portofolio.users' doesn't exist in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:82
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php(82): PDOStatement->execute()
+#1 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#2 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 82
+[10-Jul-2024 10:42:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'amisbud1_portofolio.users' doesn't exist in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:82
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php(82): PDOStatement->execute()
+#1 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#2 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 82
+[10-Jul-2024 10:43:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'amisbud1_portofolio.users' doesn't exist in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:82
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php(82): PDOStatement->execute()
+#1 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#2 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 82
+[10-Jul-2024 15:54:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'amisbud1_portofolio.users' doesn't exist in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php:82
+Stack trace:
+#0 /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php(82): PDOStatement->execute()
+#1 /home/amisbud1/websi.amisbudi.cloud/si-admin/api/users/read.php(17): Users->getSingleUser()
+#2 {main}
+  thrown in /home/amisbud1/websi.amisbudi.cloud/si-admin/models/Users.php on line 82

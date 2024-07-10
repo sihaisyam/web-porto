@@ -39,12 +39,12 @@
                 'password' : $('#password').val()
                 }
                 $.ajax({
-                    url:"https//websi.amisbudi.cloud/si-admin/api/auth/login.php",
+                    url:"/si-admin/api/auth/login.php",
                     method:"POST",
                     data: JSON.stringify(formData),
                     success:function(data){
                         $('#action_button').attr('disabled', false);
-                        window.location.href = 'https//websi.amisbudi.cloud/si-admin/views/users/';
+                        window.location.href = '/si-admin/views/users/';
 
                     },
                     error: function(err) {                        
